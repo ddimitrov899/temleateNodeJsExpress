@@ -20,6 +20,7 @@
   "homepage": "https://github.com/ddimitrov899/temleateNodeJsExpress#readme",
   "dependencies": {
     "express": "4.16.1",
+    "express-handlebars": "3.0.0",
     "mongoose": "4.12.1"
   }
 }
