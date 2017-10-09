@@ -1,0 +1,21 @@
+{
+  "name": "temleateNodeJsExpress",
+  "version": "1.0.0",
+  "description": "Simple Temleate Express",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddimitrov899/temleateNodeJsExpress.git"
+  },
+  "engines": {
+    "node": "8.2.1",
+    "npm": "5.3.0"
+  },
+  "keywords": [],
+  "author": "DD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddimitrov899/temleateNodeJsExpress/issues"
+  },
+  "homepage": "https://github.com/ddimitrov899/temleateNodeJsExpress#readme"
+}
