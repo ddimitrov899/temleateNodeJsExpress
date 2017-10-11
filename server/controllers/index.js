@@ -1,5 +1,5 @@
 const home = require('./homeController')
 
 module.exports = {
-    home: home
+  home: home
 }
